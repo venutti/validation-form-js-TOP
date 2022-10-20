@@ -1,0 +1,20 @@
+{
+  "name": "validation-form-js-top",
+  "version": "1.0.0",
+  "description": "Repositorio para practicar las validaciones de formularios usando la API de Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venutti/validation-form-js-TOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venutti/validation-form-js-TOP/issues"
+  },
+  "homepage": "https://github.com/venutti/validation-form-js-TOP#readme"
+}
