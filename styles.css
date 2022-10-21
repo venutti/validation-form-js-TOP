@@ -9,24 +9,24 @@
   padding: 0;
   margin: 0;
 }
-
+.hide {
+  display: none;
+}
 body {
   background-color: var(--clr-grey);
   font-family: 'Rubik', sans-serif;
+  padding: 2rem;
 }
 h1 {
-  padding: 2rem;
-  padding-bottom: 0;
   font-weight: 600;
 }
 h2 {
-  padding: 2rem;
-  padding-top: 0;
   font-weight: 400;
 }
 
-form {
-  margin: 0 auto;
+form,
+#high-five {
+  margin: 2rem auto;
   padding: 2rem;
   max-width: 600px;
   background-color: var(--clr-primary);
@@ -73,4 +73,7 @@ button {
 }
 button:hover {
   background-color: var(--clr-grey);
+}
+#high-five {
+  text-align: center;
 }
